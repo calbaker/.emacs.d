@@ -55,7 +55,7 @@
 ;; Basic Customization
 ;; ===================================
 
-(setq inhibit-startup-message t)    ;; Hide the startup message
+;; (setq inhibit-startup-message t)    ;; Hide the startup message
 (global-linum-mode t)               ;; Enable line numbers globally
 
 (recentf-mode 1)
